@@ -1,0 +1,3 @@
+writeprint
+print2
+write2
